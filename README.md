@@ -1,6 +1,6 @@
 # HTML Schedule Table
 
-Purpose of this coding is to practce the HTML basics learned.
+Purpose of this coding is to practice the HTML basics learned.
 You must write a code that creates an html time schedule and includes:
 - creating a table
 - adding images
